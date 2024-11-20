@@ -42,9 +42,6 @@
 * **Projected End Date:** `28/4/2025`
 * **Questions Solved:** `1/160`
 
-### **Let's Get Started!**
-#### Day 2 awaits... 
-
 **Watch | Star | Fork | Contribute**
 -------------------------------------
 
