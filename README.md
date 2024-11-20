@@ -38,9 +38,9 @@
 ### **Streak Details**
 #### Mark Your Calendars!
 
-* **Start Date:** `20/11/2024`
-* **Projected End Date:** `28/4/2025`
-* **Questions Solved:** `1/160`
+* **Start Date:** `21/11/2024`
+* **Projected End Date:** `29/4/2025`
+* **Questions Solved:** `0/160`
 
 **Watch | Star | Fork | Contribute**
 -------------------------------------
