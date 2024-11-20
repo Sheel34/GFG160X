@@ -43,7 +43,7 @@
 * **Questions Solved:** `1/160`
 
 ### **Let's Get Started!**
-#### Day 1 awaits... 
+#### Day 2 awaits... 
 
 **Watch | Star | Fork | Contribute**
 -------------------------------------
